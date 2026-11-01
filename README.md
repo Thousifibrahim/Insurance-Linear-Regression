@@ -1,5 +1,7 @@
 # Car-Insurance
 
+![stack: Jupyter Notebook](https://img.shields.io/badge/stack-Jupyter%20Notebook-555)
+
 A project by Thousif Ibrahim.
 
 ## Overview
